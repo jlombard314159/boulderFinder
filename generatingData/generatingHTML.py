@@ -7,7 +7,7 @@ from folium.vector_layers import Polygon
 # ndvi = ee.ImageCollection("SKYSAT/GEN-A/PUBLIC/ORTHO/RGB")
 
 # Add custom base maps to folium
-mbToken = 'pk.eyJ1IjoiamxvbWJhcmQzMTQxNTkiLCJhIjoiY2t4ZG4wbDQ0M2h0dDJvcG12NWxkN2ljcCJ9.fNlPsPAoumrKbHKgXS2umw'
+mbToken = 'get your own'
 
 
 # Add custom base maps to folium

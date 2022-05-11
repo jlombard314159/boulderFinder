@@ -5,7 +5,7 @@ from folium.features import ColorLine
 # ee.Authenticate()
 ee.Initialize()
 # ndvi = ee.ImageCollection('LANDSAT/LC8_L1T_8DAY_NDVI')
-mbToken = 'pk.eyJ1IjoiamxvbWJhcmQzMTQxNTkiLCJhIjoiY2t4ZG4wbDQ0M2h0dDJvcG12NWxkN2ljcCJ9.fNlPsPAoumrKbHKgXS2umw'
+mbToken = 'get your own'
 
 # Add custom base maps to folium
 basemaps = {
