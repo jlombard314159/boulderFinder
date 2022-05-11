@@ -37,7 +37,7 @@ coordinates.
 
 #### Training Data
 
-Training data was gathered via GPS coordinates from [Mountain Project][https://www.mountainproject.com/].
+Training data was gathered via GPS coordinates from [Mountain Project](https://www.mountainproject.com/).
 For a given coordinate (boulder), Geckodriver is used to: generate a HTML map, via mapbox or whatever other provider,
 export an image, then 'paint' the data with the other boulders in the area. The training data
 assumes a certain size for each boulder, regardless of reality. For each coordinate we obtain
