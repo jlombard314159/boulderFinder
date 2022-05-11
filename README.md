@@ -87,9 +87,13 @@ as train the model on your own.
 My PC specs:
 
 CPU: Intel Core i5 11400
+
 Motherboard: ASRock B560M-C
+
 Memory: 32GB G.Skill Trident Z RGB DDR4 3600 mhz (4x 8GB)
+
 GPU: GeForce RTX 3060, 12GB
+
 OS: Windows 10
 
 Selenium is used for this project. I found geckodriver on firefox to work best
