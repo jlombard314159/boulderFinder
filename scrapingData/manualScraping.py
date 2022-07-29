@@ -9,10 +9,8 @@ listOfCoords = [{'area_name':'coyote rocks', 'lnglat':[41.272830, -105.3935], 'u
                 {'area_name':'bunker2', 'lnglat':[41.230119, -105.321827], 'unique-id': uniqueID + '4'},
                 {'area_name':'rf-roof area', 'lnglat':[40.87269, -105.57872], 'unique-id': uniqueID + '5'},
                 {'area_name':'mastodon', 'lnglat':[40.85941, -105.52624], 'unique-id': uniqueID + '6'},
-                {'area_name':'rf-cum town', 'lnglat':[40.86448, -105.52440], 'unique-id': uniqueID + '7'},
                 {'area_name':'voo-beer crack', 'lnglat':[41.17096, -105.32999], 'unique-id': uniqueID + '8'},
-                {'area_name':'roofranch', 'lnglat':[41.21777, -105.32499], 'unique-id': uniqueID + '9'},
-                {'area_name':'neverland-aspen area', 'lnglat':[42.09782, -105.41888], 'unique-id': uniqueID + '10'}]
+                {'area_name':'roofranch', 'lnglat':[41.21777, -105.32499], 'unique-id': uniqueID + '9'}]
 
 #listOfCoords = [{'area_name':'gandalf','lnglat':[40.665460, -105.808020],'unique-id':uniqueID + '10'}]
 
