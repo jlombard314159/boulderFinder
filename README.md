@@ -1,9 +1,8 @@
-# Finding Awesome boulders RemoTely (FART)
+# Finding Awesome Boulders
 
 ![Original](assets/vedauwoo_start.png)
 
 ![Final](assets/vedauwoo_complete_ex.png)
-
 
 ### What typically happens
 
