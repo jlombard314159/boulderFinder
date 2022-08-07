@@ -1,4 +1,4 @@
-# Finding Awesome Boulders
+# Finding Boulders
 
 ![Original](assets/vedauwoo_start.png)
 
